@@ -8,8 +8,8 @@
 <a href="https://www.linkedin.com/in/your_profile">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/your_profile">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://t.me/tg1i5i9i1">
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/your_profile">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -17,7 +17,7 @@
 
 <br />
 
-Привет, меня зовут ВАШЕ ИМЯ, я студент. Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
+Привет, меня зовут Александр Федотов, и я devops. Изучаю технологии, которые применяю в своей работе.
 
 <br />
 
@@ -36,6 +36,16 @@
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
 * [x] Прокачать свой профиль на Github
-* [ ] Пройти курс по Git на Slurm
-* [ ] Создать свой первый проект на Github       
+* [x] Пройти курс Git на Slurm
+* [x] Создать свой первый проект на Github
+* [x] Пройти курс Администрирование Linux-серверов на Slurm
+* [x] Пройти курс Программирование на Python на stepik.org
+* [x] Пройти курс Docker на rotoro.cloud
+* [x] Пройти курс Ansible на rotoro.cloud
+* [x] Пройти курс Сетевые протоколы в Linux на uneex.org
+* [x] Пройти курс DevOps на rotoro.cloud
+* [x] Пройти курс Certified Kubernetes Administrator (CKA) на rotoro.cloud
+* [x] Пройти курс Администратор Kubernetes на stepik.org
+* [x] Пройти курс DevOps Upgrade на Slurm
+* [x] Пройти курс IaC с Ansible на Southbridge       
 <!-- TODO-IST:END -->
